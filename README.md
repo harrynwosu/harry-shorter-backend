@@ -6,10 +6,10 @@ This is my first stab at a project with Go while learning, so baby steps 👣 !
 
 #### To-do / Coming soon:
 
--   [] Dockerize and deploy the service in the cloud
--   [] Deploy (possibly with _Vercel_\*\*) user-friendly UI implementation with React available on the web for consuming this service
--   [] Add a SQL DB (Postgres or MySQL) as backup to the Redis main store to be used for storing cold values/least frequently fetched (LFU) data.
--   [] Implement QR code generator and add to the frontend as well.
+-   [ ] Dockerize and deploy the service in the cloud
+-   [ ] Deploy (possibly with _Vercel_\*\*) user-friendly UI implementation with React available on the web for consuming this service
+-   [ ] Add a SQL DB (Postgres or MySQL) as backup to the Redis main store to be used for storing cold values/least frequently fetched (LFU) data.
+-   [ ] Implement QR code generator and add to the frontend as well.
 
 ## Main Features
 
